@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "210072546484",
+    "firebase_url": "https://medicationreminder-c96af.firebaseio.com",
+    "project_id": "medicationreminder-c96af",
+    "storage_bucket": "medicationreminder-c96af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210072546484:android:9e1c922530da2da3",
+        "android_client_info": {
+          "package_name": "com.jenny.medicationreminder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210072546484-otjdlqddn6tcnjuolbnh0129v7nhho13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jenny.medicationreminder",
+            "certificate_hash": "1a80bad2c7bd66e0616e813da8630ba9bc6fcd23"
+          }
+        },
+        {
+          "client_id": "210072546484-3f8t39tif8ssr4lhbdq47rff732an3dd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXj8SO-yHh9FzKd70dDzwYzeCcfuLWekk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210072546484-3f8t39tif8ssr4lhbdq47rff732an3dd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
