@@ -1,7 +1,7 @@
 <component name="libraryTable">
-  <library name="jaunt1.5">
+  <library name="jaunt1.5.1">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../jaunt1.5/jaunt1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../Java Library/jaunt1.5.1/jaunt1.5.1.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

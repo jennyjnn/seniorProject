@@ -1,0 +1,370 @@
+Acetazolamide (อะเซตาโซลาไมด์)
+Acetylcholine (แอซิติลโคลีน)
+Acetylcysteine (อะเซทิลซิสเทอีน)
+Acitretin (อาซิเทรติน)
+Activated Charcoal (ถ่านกัมมันต์)
+Acyclovir (อะไซโคลเวียร์)
+Adenosine (อะดีโนซีน)
+ALA (กรดอัลฟาไลโปอิก)
+Albendazole (อัลเบนดาโซล)
+Albumin (อัลบูมิน)
+Alfacalcidol (แอลฟาแคลซิดอล)
+Allopurinol (อัลโลพูรินอล)
+Ambroxol (แอมบรอกซอล)
+Amikacin (อะมิคาซิน)
+Aminoglycosides (อะมิโนไกลโคไซด์)
+Aminophylline (อะมิโนฟิลลีน)
+Amiodarone (อะมิโอดาโรน)
+Amitriptyline (อะมิทริปไทลีน)
+Amlodipine (แอมโลดิปีน)
+Ammonium Chloride (แอมโมเนียมคลอไรด์)
+Ampicillin (แอมพิซิลลิน)
+Astaxanthin (แอสตาแซนทิน)
+Atenolol (อะทีโนลอล)
+Atorvastatin (อะทอร์วาสแตติน)
+Atropine (อะโทรปีน)
+Avanafil (อะแวนาฟิล)
+Azathioprine (อะซาไธโอพรีน)
+Azithromycin (อะซิโธรมัยซิน)
+Baclofen (บาโคลเฟน)
+BCG (บีซีจี)
+Benzodiazepines (เบนโซไดอะซีปีน)
+Benzoyl Peroxide (เบนโซอิลเพอร์ออกไซด์)
+Beta Blockers (เบต้า บล็อกเกอร์)
+Betahistine (เบตาฮีสทีน)
+Betamethasone (เบต้าเมทาโซน)
+Bisacodyl (บิซาโคดิล)
+Bisoprolol (ไบโซโปรลอล)
+Botulinum Toxin (โบทูไลนัม ท็อกซิน)
+Bromhexine (บรอมเฮกซีน)
+Bromocriptine (โบรโมคริปทีน)
+Budesonide (บูเดโซไนด์)
+Bupropion
+Calcium Gluconate (แคลเซียมกลูโคเนต)
+Captopril (แคปโตพริล)
+Carbamazepine (คาร์บามาซีปีน)
+Carbocysteine (คาร์โบซิสเทอีน)
+Carvedilol (คาร์วีไดลอล)
+Cefazolin (เซฟาโซลิน)
+Cefdinir (เซฟดิเนียร์)
+Cefditoren (เซฟดิโตเรน)
+Cefixime (เซฟิซิม)
+Cefotaxime (เซโฟแทกซีม)
+Ceftazidime (เซฟตาซิดิม)
+Ceftriaxone (เซฟไตรอะโซน)
+Cefuroxime (เซฟูรอกซิม)
+Celecoxib (เซเลโคซิบ)
+Cephalexin (เซฟาเลกซิน)
+Cephalosporins (เซฟาโลสปอริน)
+Cetirizine (เซทิริซีน)
+Chloramphenicol (คลอแรมเฟนิคอล)
+Chlorhexidine (คลอร์เฮกซิดีน)
+Chlorpromazine (คลอร์โปรมาซีน)
+Cholestyramine (คอเลสไทรามีน)
+Cilostazol (ซิลอสทาซอล)
+Cimetidine (ไซเมทิดีน)
+Cinnarizine (ซินนาริซีน)
+Ciprofloxacin (ไซโปรฟลอกซาซิน)
+Cisplatin (ซิสพลาติน)
+Citalopram (ไซตาโลแพรม)
+Clarithromycin (คลาริโทรมัยซิน)
+Clobetasol (โคลเบทาซอล)
+Clonazepam (โคลนาซีแพม)
+Clonidine (โคลนิดีน)
+Clopidogrel (โคลพิโดเกรล)
+Clorazepate (คลอราซีเพท)
+Clotrimazole (โคลไตรมาโซล)
+Cloxacillin (คลอกซาซิลลิน)
+Clozapine (โคลซาปีน)
+Codeine (โคเดอีน)
+Colchicine (โคลชิซิน)
+Colistin (โคลิสติน)
+Cyclophosphamide (ไซโคลฟอสฟาไมด์)
+Cyclosporine (ไซโคลสปอริน)
+Cyproheptadine (ไซโปรเฮปตาดีน)
+Desloratadine (เดสลอราทาดีน)
+Dexamethasone (เดกซาเมทาโซน)
+Dextromethorphan (เดกซ์โทรเมทอร์แฟน)
+Dextrose (เดกซ์โทรส)
+DHA (ดีเอชเอ)
+Diclofenac (ไดโคลฟีแนค)
+Dicloxacillin (ยาไดคลอกซาซิลลิน)
+Dicyclomine (ไดไซโคลมีน)
+Digoxin (ไดจอกซิน)
+Diltiazem (ดิลไทอะเซม)
+Dimenhydrinate (ไดเมนไฮดริเนต)
+Diphenhydramine (ยาไดเฟนไฮดรามีน)
+Dobutamine (โดบูทามีน)
+Domperidone (ดอมเพอริโดน)
+Donepezil (โดนีพีซิล)
+Dopamine (โดปามีน)
+Doxazosin (ดอกซาโซซิน)
+Doxorubicin (ด็อกโซรูบิซิน)
+Doxycycline (ด็อกซีไซคลิน)
+EDTA (เอเดเทต ไดโซเดียม)
+Efavirenz (เอฟฟาไวเร็นซ์)
+Enalapril (อีนาลาพริล)
+Enoxaparin (ยาอีน็อกซาพาริน)
+Epinephrine (อิพิเนฟริน)
+Erythromycin (อิริโทรมัยซิน)
+Erythropoietin (อีริโทรโพอิติน)
+Escitalopram (เอสซิตาโลแพรม)
+Eslicarbazepine (เอสลิคาร์บาซีพีน)
+Estrogen (เอสโตรเจน)
+Ethacrynic Acid (กรดเอธาครีนิก)
+Ethambutol (อีแทมบูทอล)
+Ezetimibe (อีเซทิไมบ์)
+Famotidine (ฟาโมทิดีน)
+Felodipine (ฟิโลดิปีน)
+Fenofibrate (ฟีโนไฟเบรต)
+Fentanyl (เฟนทานิล)
+Fexofenadine (เฟกโซเฟนาดีน)
+Flavoxate (ฟลาโวเซท)
+Fluconazole (ฟลูโคนาโซล)
+Flunarizine (ฟลูนาริซีน)
+Fluoxetine (ฟลูออกซิทีน)
+Folic Acid (กรดโฟลิค)
+Formaldehyde (ฟอร์มาลดีไฮด์)
+Fosinopril (โฟซิโนพริล)
+Furosemide (ฟูโรซีไมด์)
+Gabapentin (กาบาเพนติน)
+Gemfibrozil (เจมไฟโบรซิล)
+Gentamicin (เจนตามัยซิน)
+Glibenclamide (ไกลเบนคลาไมด์)
+Glipizide (ไกลพิไซด์)
+Glycerol (กลีเซอรอล)
+Griseofulvin (กริซีโอฟูลวิน)
+Guaifenesin (ไกวเฟนิซิน)
+Haloperidol (ฮาโลเพอริดอล)
+HCG (ฮอร์โมนเอชซีจี)
+Heparin (เฮพาริน)
+Hydralazine (ไฮดราลาซีน)
+Hydrochlorothiazide (ไฮโดรคลอโรไทอะไซด์)
+Hydrocortisone (ไฮโดรคอร์ติโซน)
+Hydroquinone (ไฮโดรควิโนน)
+Hydroxyzine (ไฮดรอกไซซีน)
+Hyoscine Butylbromide (ไฮออสซีน บิวทิลโบรไมด์)
+Imipramine (อิมิพรามีน)
+Indinavir (อินดินาเวียร์)
+Indomethacin (อินโดเมทาซิน)
+Isoniazid (ไอโซไนอาซิด)
+Itraconazole (ไอทราโคนาโซล)
+Ivermectin (ไอเวอร์เมคติน)
+Kanamycin (กานามัยซิน)
+Ketorolac (คีโตโรแลค)
+Lactulose (แล็กทูโลส)
+Lamivudine (ลามิวูดีน)
+Lanolin (ลาโนลิน)
+Lansoprazole (แลนโซพราโซล)
+Ledipasvir-Sofosbuvir (เลดิพาสเวียร์-โซฟอสบูเวียร์)
+Leucovorin (ลูวโคโวริน)
+Levetiracetam (ลีวีไทราซีแทม)
+Levofloxacin (ลีโวฟลอกซาซิน)
+Levonorgestrel (ลีโวนอร์เจสเตรล)
+Lidocaine (ลิโดเคน)
+Lincomycin (ลินโคมัยซิน)
+Lithium (ลิเทียม)
+Loperamide (ยาโลเพอราไมด์)
+Lorazepam (ลอราซีแพม)
+Losartan (ลอซาร์แทน)
+Lysine (ไลซีน)
+Mannitol (แมนนิทอล)
+Mebendazole (มีเบนดาโซล)
+Mebeverine (มีบีเวอรีน)
+Mefenamic Acid (เมเฟนามิค แอซิด)    
+Meloxicam (มีลอกซิแคม)
+Meropenem (เมอโรพีเนม)
+Metformin (เมทฟอร์มิน)
+Methadone (เมทาโดน)
+Methamphetamine (เมทแอมเฟตามีน)
+Methimazole (เมไทมาโซล)
+Methotrexate (เมโธเทรกเซท)
+Methyl Salicylate (เมทิลซาลิไซเลต)
+Methylene Blue (เมทิลีน บลู)
+Methylphenidate (เมทิลเฟนิเดต)
+Methylprednisolone (เมทิลเพรดนิโซโลน)
+Metoclopramide (เมโทโคลพราไมด์)
+Metoprolol (เมโทโพรลอล)
+Midazolam (มิดาโซแลม)
+Milk of Magnesia (มิลค์ออฟแมกนีเซีย)
+Minoxidil (ไมนอกซิดิล)
+Mirtazapine (เมอร์เทซาปีน)
+Misoprostol (ไมโสพรอสตอล)
+Modafinil (ยาโมดาฟินิล)
+Montelukast (มอนเทลูคาสท์)
+Moxifloxacin (มอกซิฟลอกซาซิน)
+Mupirocin (มิวพิโรซิน)
+Naproxen (นาพรอกเซน)
+Neomycin (นีโอมัยซิน)
+Nicardipine (นิคาร์ดิปีน)
+Nifedipine (ไนเฟดิปีน)
+Nitrofurantoin (ไนโตรฟูแรนโทอิน)
+Nitroglycerin (ไนโตรกลีเซอริน)
+Norepinephrine (นอร์อิพิเนฟริน)
+Norethisterone (นอร์อิทิสเตอโรน)
+Norfloxacin (นอร์ฟลอกซาซิน)
+Nortriptyline (นอร์ทริปไทลีน)
+NSAIDs (เอ็นเสด)
+Nystatin (ไนสแตติน)
+Octreotide (ออกทรีโอไทด์)
+Ofloxacin (ออฟลอกซาซิน)
+Olanzapine (โอแลนซาปีน)
+Ondansetron (ออนดาเซทรอน)
+Orlistat (ออริสแตท)
+Orphenadrine (ออเฟเนดรีน)
+Oseltamivir (โอเซลทามิเวียร์)
+Oxycodone (ออกซิโคโดน)
+Oxymetazoline (ออกซี่เมตาโซลีน)
+Oxytocin (ออกซิโทซิน)
+Pantoprazole (แพนโทพราโซล)
+Paromomycin (พาโรโมมัยซิน)
+Penicillin (เพนิซิลลิน)
+Perphenazine (เพอร์เฟนาซีน)
+Pethidine (เพทิดีน)
+Phenobarbital (ฟีโนบาร์บิทัล)
+Phenylephrine (ฟีนิลเอฟรีน)
+Phenytoin (เฟนิโทอิน)
+Pioglitazone (ไพโอกลิตาโซน)
+Piroxicam (ไพร็อกซิแคม)
+Potassium Chloride (โพแทสเซียมคลอไรด์)
+Prasugrel (พราซูเกรล)
+Praziquantel (พราซิควอนเทล)
+Prazosin (พราโซซิน)
+Pregabalin (พรีกาบาลิน)
+Progesterone (โปรเจสเตอโรน)
+Promethazine (โปรเมทาซีน)
+Propofol (โปรโพฟอล)
+Propranolol (โพรพราโนลอล)
+Pseudoephedrine (ซูโดเอฟีดรีน)
+Pyrazinamide (ไพราซินาไมด์)
+Q10 (คิวเทน)
+Quetiapine (ควิไทอะปีน)
+Rabeprazole (ราบีพราโซล)
+Ranitidine (แรนิทิดีน)
+Reslizumab (เรสลิซูแมบ)
+Riboflavin (ไรโบฟลาวิน)
+Rifampicin (ไรแฟมพิซิน)
+Risperidone (ริสเพอริโดน)
+Rituximab (ริทูซิแมบ)
+Rivastigmine (ไรวาสติกมีน)
+Rosiglitazone (โรซิกลิทาโซน)
+Rosuvastatin (โรซูวาสแตติน)
+Roxithromycin (รอกซิโทรมัยซิน)
+Salbutamol (ซาลบูทามอล)
+Salicylic Acid (ซาลิไซลิก แอซิด)
+Selenium (ซีลีเนียม)
+Sertraline (เซอร์ทราลีน)
+Silver Nitrate (ซิลเวอร์ไนเตรท)
+Silver Sulfadiazine (ซิลเวอร์ ซัลฟาไดอะซีน)
+Simethicone (ไซเมทิโคน)
+Simvastatin (ซิมวาสแตติน)
+Sorafenib (โซราฟีนิป)
+Sorbitol (ซอร์บิทอล)
+Spironolactone (สไปโรโนแลคโตน)
+SSRI (ยาต้านเศร้าเอสเอสอาร์ไอ)
+Streptokinase (สเตรปโตไคเนส)
+Streptomycin (สเตรปโตมัยซิน)
+Sucralfate (ซูคราลเฟต)
+Sulfamethoxazole Trimethoprim (ซัลฟาเมทอกซาโซล ไตรเมโทพริม)
+Sulfasalazine (ซัลฟาซาลาซีน)
+Tacrolimus (ทาโครลิมัส)
+Tadalafil (ทาดาลาฟิล)
+Tamoxifen (ทาม็อกซิเฟน)
+Tamsulosin (แทมซูโลซิน)
+TCA (กรดไตรคลอโรอะเซติก)
+Tenofovir (ทีโนโฟเวียร์)
+Terbutaline (เทอร์บูทาลีน)
+Tetracyclines (เตตราไซคลีน)
+Theophylline (ทีโอฟิลลีน)
+Tizanidine (ทิซานิดีน)
+Tranexamic Acid (กรดทรานเอกซามิก)
+Trazodone (ทราโซโดน)
+Tretinoin (เตรทติโนอิน)
+Triamcinolone (ไตรแอมซิโนโลน)
+Trihexyphenidyl (ไตรเฮกซีเฟนิดิล)
+Tryptophan (ทริปโตเฟน)
+Undecylenic Acid (อันดีไซลีนิก แอซิด)
+Urea Cream (ยูเรีย ครีม)
+Vancomycin (แวนโคมัยซิน)
+Venlafaxine (เวนลาฟาซีน)
+Verapamil (เวอราปามิล)
+Warfarin (วาฟาริน)
+Zolpidem (โซลพิเดม)
+กลูโคซามีน
+กินยาเกินขนาด
+คลอเฟนิรามีน
+คลินดามัยซิน
+คาลาไมน์
+คีโตโคนาโซล
+ซัลเฟอร์
+ทรามาดอล
+ทองแดง
+ธาตุเหล็ก
+น้ำมันตับปลา
+น้ำยาฆ่าเชื้อ
+น้ำยาล้างตา
+น้ำลายเทียม (Artificial Saliva)
+ผงเกลือแร่
+พาราเซตามอล
+มหาหิงคุ์
+มอร์ฟีน
+ยาขยายหลอดลม
+ยาขับปัสสาวะ
+ยาขับเสมหะ
+ยาคลายกล้ามเนื้อ
+ยาคุมกำเนิด
+ยาคุมฉุกเฉิน
+ยาคุมแบบฉีด
+ยาชา
+ยาดม
+ยาต้านเกล็ดเลือด
+ยาต้านเชื้อเอชไอวี
+ยาต้านเศร้า
+ยาถ่ายพยาธิ
+ยานอนหลับไดอะซีแพม
+ยาพ่นจมูก
+ยาม่วง
+ยาระบาย
+ยาลดกรด
+ยาลดน้ำมูก
+ยาละลายลิ่มเลือด
+ยาล้างไต
+ยาหม่อง
+ยาอมแก้เจ็บคอ
+ยาเค
+ยาเลิกเหล้า
+ยาเหน็บช่องคลอด
+ยาเหน็บริดสีดวง
+ยาแก้ปวด
+ยาแก้ปวดไมเกรน
+ยาแก้แพ้
+ยาแก้ไอ
+ลอราทาดีน
+วัคซีนพิษสุนัขบ้า
+วัคซีนมะเร็งปากมดลูก
+วัคซีนอีสุกอีใส
+วัคซีนไข้หวัดใหญ่
+วัคซีนไข้เลือดออก
+วิตามิน อี
+วิตามิน เค
+วิตามินซี
+วิตามินดี
+วิตามินบี 1
+วิตามินบี 12
+วิตามินบี 2
+วิตามินบี 3
+วิตามินบี 6
+วิตามินบีรวม
+วิตามินรวม
+วิตามินเอ
+อะม็อกซี่ซิลลิน
+อัลปราโซแลม
+อินซูลิน
+เพรดนิโซโลน
+เมโทรนิดาโซล
+แคลเซียม
+แมกนีเซียม (Magnesium)
+แอสไพริน
+โซเดียมไบคาร์โบเนต
+โอเมพราโซล
+ไอบูโพรเฟน
